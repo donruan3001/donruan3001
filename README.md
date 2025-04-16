@@ -1,11 +1,14 @@
 <h1>Hi There, I'm Ruan Valdez</h1>
 <p>Estudante e Auxiliar de DBA no Centro de Desenvolvimento de Sistemas do Exército</p>
+<div>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=donruan3001" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=donruan3001&layout=compact&langs_count=8&card_width=320" />
 </a>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
