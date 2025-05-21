@@ -1,5 +1,5 @@
 <h1>Hi There, I'm Ruan Valdez</h1>
-<p>Estudante e Auxiliar de DBA no Centro de Desenvolvimento de Sistemas do Exército</p>
+<p>Estudante e Auxiliar da Informática Centro de Desenvolvimento de Sistemas do Exército</p>
 <div>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
